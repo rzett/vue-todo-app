@@ -1,4 +1,5 @@
 # todoapp
+Small todo application to start the Vue journey.
 
 ## Project setup
 ```
