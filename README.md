@@ -1,6 +1,8 @@
 # todoapp
 Small todo application to start the Vue journey.
 
+- REST API implementation requesting https://jsonplaceholder.com, which I can highly recommend as a REST API mock option
+
 ## Project setup
 ```
 yarn install
